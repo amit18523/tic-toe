@@ -207,7 +207,7 @@ int main()
 	cout<<" Please donot enter anything other than number ,this program may show unkown behaviour"<<"\n";
 	cout<<" what do you expect from program"<<"\n";
 	cout<<" This program can take valid postive interger upto certain range ie 9"<<"\n"<<" if you enter number above 9 it will instruct you about invalid input"<<"\n";
-	cout<<" if you enter multiple input at same place it ie if element was placed at that place before it will not register that input"<<"\n";
+	cout<<" I you enter the input at the block which was already filled then it not register it. And you have to enter it again "<<"\n";
 	
 	
 	show(a);
