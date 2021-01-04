@@ -220,7 +220,7 @@ int main()
 			goto jump;
 		}
 		system("cls");
-        change(a,num);
+                change(a,num);
 		if(win(a)=='X'){
 			show(a);
 			cout<<"player "<<win(a)<<" won"<<"\n";
@@ -234,8 +234,6 @@ int main()
 		if(repeat==0)
 		toogleplayer();
 		show(a);
-        //cout<<enter<<"\n";
-        //cout<<i<<"\n";
 		if(i==9){
 			show(a);
 			cout<<"Match is Drawn";
